@@ -1,0 +1,13 @@
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.csprojAssemblyReference.cache
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.AssemblyInfoInputs.cache
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.AssemblyInfo.cs
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.csproj.CoreCompileInputs.cache
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.exe
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.deps.json
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.runtimeconfig.json
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.runtimeconfig.dev.json
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.dll
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\bin\Debug\netcoreapp3.1\SpeedTracker.pdb
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.dll
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.pdb
+U:\_Post-GCSE_Projects\Computer_Science\Programming\C#_Experiments\SpeedTracker\SpeedTracker\SpeedTracker\obj\Debug\netcoreapp3.1\SpeedTracker.genruntimeconfig.cache
